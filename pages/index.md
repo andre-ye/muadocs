@@ -4,5 +4,8 @@
 
 layout: Post
 permalink: /
-title: Jekyll Garden
+title: Home
 ---
+
+Hey there!
+
