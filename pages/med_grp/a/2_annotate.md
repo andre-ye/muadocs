@@ -57,7 +57,11 @@ Feel free to refer back to these examples.
 
 You may now begin annotating your range. Please ask your session lead if you have any questions or difficulties. You should take at most 30 to 40 seconds for each image, although you may be slower at first as you are acquainting yourself with the annotation interface.
 
-## [5] Finished?
+## [6] Experience Survey
+After you are finished annotating, please fill out this quick second-half [experience form](){:target="_blank"}.
 
-Congradulations! You're halfway done. Please fill out this quick halfway [experience form](){:target="_blank"}.
+## [7] Finished?
+
+Your participation session is complete! 🥳 Thanks for participating in this study. Check in with your session lead before leaving. Expect to receive a gift card soon. 
+[Let's Go Home →](/muadocs)
 
