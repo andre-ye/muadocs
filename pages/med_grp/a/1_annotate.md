@@ -85,7 +85,7 @@ You may now begin annotating your range. Please ask your session lead if you hav
 
 ## [6] Experience Survey
 
-After you are finished annotating, please fill out this quick halfway [experience form](){:target="_blank"}.
+After you are finished annotating, please fill out this quick halfway [experience form](https://docs.google.com/forms/d/e/1FAIpQLSeD-Av6psdCXgZTDqjVjYw38tNFtWsD_lyDmDarc2_tpGBObA/viewform?usp=sf_link){:target="_blank"}.
 
 ## [7] Finished?
 
