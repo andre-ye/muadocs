@@ -1,7 +1,7 @@
 ---
 layout: Post
 content-type: static
-permalink: /med_grp/start/a/start
+permalink: /med_grp/b/start
 title: MD Group A Start
 ---
 
