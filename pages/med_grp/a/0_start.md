@@ -31,7 +31,7 @@ After this page, you will begin annotating the first half of images.
 
 > "A spot on the lungs usually refers to a pulmonary nodule. This is a small, round growth on the lungs that shows up as a white spot on image scans. Typically, these nodules are smaller than three 3 centimeters (cm) in diameter. If your doctor sees a pulmonary nodule on a chest X-ray or CT scan, don’t panic. Pulmonary nodules are common, and most are benign or noncancerous. Nodules are found on up to half of all lung CT scans. When a pulmonary nodule is cancerous, the spot or growth is usually larger than 3 cm or has other characteristics like an irregular shape. ... The risk for cancer increases when... a nodule is large [or] the nodule appears to have lobes or a pointed surface."
 
-> - [Healthline](https://www.healthline.com/health/spot-on-the-lung){:target+"_blank"}
+> [Healthline](https://www.healthline.com/health/spot-on-the-lung){:target+"_blank"}
 
 ## [3] Pulmonary Node Identification
  
@@ -51,10 +51,11 @@ Four such samples are displayed below. Note that each contains a centered node, 
 You'll see that even professional radiologists asked to annotate the shape and size of nodules often disagree with each other. In the following series of examples, the left image contains 'wider context', the middle image shows the 'restricted window' (which you will be annotating), and the right image displays different annotations for the nodule.
  
 ![image](https://user-images.githubusercontent.com/73039742/196005058-868494c9-c1b8-477b-833c-67b2c23e18eb.png)
+ 
+These disagreements result from differences in visual perception: some challenges include whether to include a darker region as part of the lung node, or how much of an auxiliary structure to include if the node is attached to a broader wall or branch (where does the node end and the structure begin?).
 
 ## [5] Short Quiz
-
-**Take this short quiz to evaluate your understanding.**
+**Take this short quiz** to evaluate your understanding. [Let's Go →](https://docs.google.com/forms/d/e/1FAIpQLSdJzcB5jnq8lk4uEcsd3FxMVo1syntPm-CTUKSDxfd4a57zqw/viewform?usp=sf_link){:target="_blank"}. If you make any mistakes, make sure you understand why!
 
 ## [6] Proceed
  
