@@ -5,7 +5,7 @@ permalink: /med_grp/start
 title: MD Group Start
 ---
 
-# Medical Data Annotator Group Track
+# Medical Data Track
 
 You are currently viewing the **Medical Data** track. Please select your session type, `A` or `B`.
 
