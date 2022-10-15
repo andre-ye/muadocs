@@ -1,12 +1,12 @@
 ---
 layout: Post
 content-type: static
-permalink: /med_grp/start/a/start
+permalink: /med_grp/a/annotate
 title: MD Group A Start
 ---
 
 # Annotation - Standard Protocol (First Half)
-## Medical Data Annotator Group Track, Session A
+**Medical Data Track, Session A**
 
 Now, you will annotate 40 images using the **standard protocol**. In this method, simply annotate
 a single boundary around the relevant node. 
