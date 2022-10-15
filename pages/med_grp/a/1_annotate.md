@@ -2,7 +2,7 @@
 layout: Post
 content-type: static
 permalink: /med_grp/a/annotate
-title: MD Group A Start
+title: Standard Protocol
 ---
 
 # Annotation - Standard Protocol
