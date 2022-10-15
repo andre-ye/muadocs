@@ -1,6 +1,6 @@
 ---
 layout: Post
-permalink: /
+permalink: /about
 title: About
 ---
 
