@@ -58,5 +58,5 @@ You'll see that even professional radiologists asked to annotate the shape and s
 
 ## [6] Proceed
  
-Next, you will proceed to annotating your first batch of 40 images. [Let's Go →](/muadocs/med_grp/a/1_annotate_standard.md)
+Next, you will proceed to annotating your first batch of 40 images. [Let's Go →](/muadocs/med_grp/a/annotate)
 
