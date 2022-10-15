@@ -20,13 +20,16 @@ object is blurred or darkened, making it difficult to classify either as part of
 you can exclude it from the min region but include it in the max region.
 
 ## [1] Setting up the Annotation Interface
-Please locate your assigned image range for **min/max** annotation. Keep this tab open so you can refer back to it if needed. For instance, suppose that you are annotator ID #4. Your assigned image range for standard annotation is 335 - 374.
+Please locate your assigned image range for **min/max** annotation. The annotation assignments are [here](https://andre-ye.github.io/muadocs/annot_assigns/med){:target="_blank"}. For instance, suppose that you are annotator ID #4. Your assigned image range for standard annotation is 376 - 415.
+
+![image](https://user-images.githubusercontent.com/73039742/196009859-5d9af61a-bbf1-477c-bb10-6192d1d8daf8.png)
+
 
 ## [2] Preparing to Time Yourself
 
 The time will be projected on the board. You will have been given a physical time recording sheet. When you begin annotating, record the current time (minutes and seconds). After you finish annotating an image, record the current time (minutes and seconds) and move on to the next image as soon as you can.
 
-## [3] Annotating with the Standard Protocol
+## [3] Annotating with the Min/Max Protocol
 
 The annotation interface is designed to be simple. To begin, click on `Annotate` > `Poly`. This will automatically set you up to draw a polygon. Move your cursor over the image, and click where you want to make a vertex. When you are finished, right-click. **This connects your most recently drawn vertex to the first vertex**, enclosing a polygon. 
 
