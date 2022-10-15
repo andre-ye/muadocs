@@ -5,7 +5,7 @@ permalink: /med_grp/a/start
 title: MD Group A Start
 ---
 
-# Start
+# Start 
 ## Medical Data Annotator Group Track, Session A
 
 In this session, you will be identifying the shape of pulmonary nodes captured on CT scans. 
