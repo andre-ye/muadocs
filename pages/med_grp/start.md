@@ -9,5 +9,5 @@ title: MD Group Start
 
 You are currently viewing the **Medical Data** track. Please select your session type, `A` or `B`.
 
-- I'm in [session type A](/muadocs/med_grp/start/a/0_start)
-- I'm in [session type B](/muadocs/med_grp/start/b/0_start)
+- I'm in [session type A](/muadocs/med_grp/a/0_start)
+- I'm in [session type B](/muadocs/med_grp/b/0_start)
