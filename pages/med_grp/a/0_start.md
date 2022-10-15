@@ -39,7 +39,7 @@ Four such samples are displayed below. Note that each contains a centered node, 
   
 ![image](https://user-images.githubusercontent.com/73039742/196003914-94dba8ff-af48-4acd-8a4a-b0f946df0ca9.png)
 
+**Take this short quiz to evaluate your understanding.**
 
-
-
+Next, you will proceed to annotating your first batch of 40 images. [Let's Go →](/muadocs/med_grp/a/1_annotate_standard.md)
 
