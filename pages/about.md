@@ -4,7 +4,7 @@ permalink: /about
 title: About
 ---
 
-# Study Motivation and Information
+<!-- # Study Motivation and Information -->
 
 Hey there!
 
