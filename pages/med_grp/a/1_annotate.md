@@ -5,7 +5,9 @@ permalink: /med_grp/a/annotate
 title: MD Group A Start
 ---
 
-# Annotation - Standard Protocol (First Half)
+# Annotation - Standard Protocol
+**First Half**
+
 **Medical Data Track, Session A**
 
 Now, you will annotate 40 images using the **standard protocol**. In this method, simply annotate
