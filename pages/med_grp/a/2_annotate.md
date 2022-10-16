@@ -31,6 +31,8 @@ The time will be projected on the board. You will have been given a physical tim
 
 ## [3] Annotating with the Min/Max Protocol
 
+The annotation interface is designed to be simple. You will annotate a series of images using a poly tool. To zoom in, scroll forward; to zoom out, scroll back. To move the image around, right click on the image and drag it into the desired location.
+
 You will begin by annotating the min hypothesis. Recall that the min region represents the region which is almost certainly to be annotated. To begin, click on `Annotate` > `Poly`. This will automatically set you up to draw a polygon. Move your cursor over the image, and click where you want to make a vertex. When you are finished, right-click. **This connects your most recently drawn vertex to the first vertex**, enclosing a polygon. 
  
 ![](/muadocs/assets/img/a0_single_point_min.gif)
