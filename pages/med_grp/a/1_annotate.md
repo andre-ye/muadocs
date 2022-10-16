@@ -118,12 +118,20 @@ Additionally, use the following examples of annotations directly taken from the 
     max-width: 100vw;
     width: 100vw;
   }
+  .alignfull {
+    margin-left: calc(50% - 50vw);
+    margin-right: calc(50% - 50vw);
+    max-width: 1000%;
+    width: auto;
+}
 </script>
 
-<img
+<div class="alignfull">
+  <img
     class="full-screen-width"
     src="https://user-images.githubusercontent.com/73039742/196014024-25589488-15f6-44a9-ba2e-dcd0739751ac.png"
-/>
+  />
+</div>
 
 
 
