@@ -79,7 +79,7 @@ You can also change the opacity of the annotations by changing the `Label Appear
 For the duration of these images, do not touch the `Save Min` button.
 
 ## [4] Examples
-Consider the following examples of ways one could annotate an image using the min/max protocol. Feel free to refer back to these examples as needed while you are annotating.
+Consider the following examples of ways one could annotate an image using the standard protocol. Feel free to refer back to these examples as needed while you are annotating.
 
 <center>
   <img src="/muadocs/assets/img/examples/standard/video2038633572.gif" width="60%" />
