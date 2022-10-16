@@ -54,7 +54,9 @@ The time will be projected on the board. You will have been given a physical tim
 
 ## [3] Annotating with the Standard Protocol
 
-The annotation interface is designed to be simple. To begin, click on `Annotate` > `Poly`. This will automatically set you up to draw a polygon. Move your cursor over the image, and click where you want to make a vertex. When you are finished, right-click. **This connects your most recently drawn vertex to the first vertex**, enclosing a polygon. 
+The annotation interface is designed to be simple. You will annotate a series of images using a _poly tool_. To zoom in, scroll forward; to zoom out, scroll back. To move the image around, right click on the image and drag it into the desired location. 
+
+To begin, click on `Annotate` > `Poly`. This will automatically set you up to draw a polygon. Move your cursor over the image, and click where you want to make a vertex. When you are finished, right-click. **This connects your most recently drawn vertex to the first vertex**, enclosing a polygon. 
 
 ![](/muadocs/assets/img/0_click_annotate.gif)
 
@@ -72,6 +74,7 @@ Rather than deleting annotations, you can also add and subtract regions to edit 
 
 ![](/muadocs/assets/img/4_subtract.gif)
 
+You can also change the opacity of the annotations by changing the `Label Appearance` setting. This can let you toggle quickly between the original image and the annotated image to determine if the annotations fit the image. 
 
 For the duration of these images, do not touch the `Save Min` button.
 
