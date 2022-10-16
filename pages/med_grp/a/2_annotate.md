@@ -31,26 +31,39 @@ The time will be projected on the board. You will have been given a physical tim
 
 ## [3] Annotating with the Min/Max Protocol
 
-The annotation interface is designed to be simple. To begin, click on `Annotate` > `Poly`. This will automatically set you up to draw a polygon. Move your cursor over the image, and click where you want to make a vertex. When you are finished, right-click. **This connects your most recently drawn vertex to the first vertex**, enclosing a polygon. 
-
-![](/muadocs/assets/img/0_click_annotate.gif)
+You will begin by annotating the min hypothesis. Recall that the min region represents the region which is almost certainly to be annotated. To begin, click on `Annotate` > `Poly`. This will automatically set you up to draw a polygon. Move your cursor over the image, and click where you want to make a vertex. When you are finished, right-click. **This connects your most recently drawn vertex to the first vertex**, enclosing a polygon. 
+ 
+![](/muadocs/assets/img/a0_single_point_min.gif)
 
 If you are unhappy with an annotation, you can delete it. Make sure that the appropriate annotation is selected (it should have red borders). If you created it recently, it may already be selected. You can select an annotation by first pressing `Pick`, then clicking on the desired regions. Then, click on the red trash can button.
 
-![](/muadocs/assets/img/1_delete.gif)
+![](/muadocs/assets/img/a1_delete_min.gif)
 
 A more convenient way to draw polygons is to 'free-draw', in which you can freely move your mouse to define a curved region. To do this, click on `Annotate` > `Poly`, but **hold shift and click while you move your mouse** around the desired region. When you are finished, right-click. This will similarly connect the most recently drawn point to the first vertex, enclosing the polygon.
 
-![](/muadocs/assets/img/2_shift_annotate.gif)
+![](/muadocs/assets/img/a2_shift_min.gif)
 
-Rather than deleting annotations, you can also add and subtract regions to edit an existing annotation.
+Rather than deleting annotations, you can also add and subtract regions to edit the min hypothesis to your liking.
 
-![](/muadocs/assets/img/3_add.gif)
+![](/muadocs/assets/img/a3_add_subtract_min.gif)
 
-![](/muadocs/assets/img/4_subtract.gif)
+**When you are finished annotating the min hypothesis, click `Save Min`.** The annotation will darken, indicating that your min annotation has been saved. 
 
+![](/muadocs/assets/img/a4_save_min.gif)
 
-For the duration of these images, do not touch the `Save Min` button.
+Now, you will draw the max hypothesis. Because the max hypothesis will include the min hypothesis, you will annotate the max region in terms of additions to the min hypothesis. You can do this by clicking on `Add` and looping in additional regions which could possibly be of relevance. You will still be able to see the min hypothesis 'under' the max hypothesis, even though you cannot edit it anymore.
+
+![](/muadocs/assets/img/a5_draw_max_add.gif)
+
+You can edit your max hypothesis as you wish, just like with the min hypothesis. Note that you will not be able to edit the min hypothesis anymore, since you have locked it after clicking `Save Min`.
+
+![](/muadocs/assets/img/a6_edit_max.gif)
+
+While annotating, you may find it helpful to change the opacity of the annotations to see how well they match the image.
+
+![](/muadocs/assets/img/a7_check_verify_fade.gif)
+
+When you are finished annotating the max hypothesis, you can move on to the next image. There is no need to save the max hypothesis. If you would like to restart annotating, simply select all annotations on the page with `Pick` and delete them all.
 
 ## [4] Examples
 
