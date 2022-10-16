@@ -79,8 +79,58 @@ You can also change the opacity of the annotations by changing the `Label Appear
 For the duration of these images, do not touch the `Save Min` button.
 
 ## [4] Examples
+Consider the following examples of ways one could annotate an image. Feel free to refer back to these examples as needed while you are annotating.
 
-Feel free to refer back to these examples.
+<center>
+  <img src="/muadocs/assets/img/examples/standard/video2038633572.gif" width="60%" />
+</center>
+<center>
+  <img src="/muadocs/assets/img/examples/standard/video3038633572.giff" width="60%" />
+</center>
+<center>
+  <img src="/muadocs/assets/img/examples/standard/video4038633572.gif" width="60%" />
+</center>
+<center>
+  <img src="/muadocs/assets/img/examples/standard/video5038633572.gif" width="60%" />
+</center>
+<center>
+  <img src="/muadocs/assets/img/examples/standard/video6038633572.gif" width="60%" />
+</center>
+<center>
+  <img src="/muadocs/assets/img/examples/standard/video7038633572.gif" width="60%" />
+</center>
+<center>
+  <img src="/muadocs/assets/img/examples/standard/video8038633572.gif" width="60%" />
+</center>
+<center>
+  <img src="/muadocs/assets/img/examples/standard/video9038633572.gif" width="60%" />
+</center>
+
+Additionally, use the following examples of annotations directly taken from the LIDC-IDRI dataset as references:
+
+<script>
+  
+  body {
+    overflow-x: hidden;
+  }
+  
+  .full-screen-width {
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    max-width: 100vw;
+    width: 100vw;
+  }
+</script>
+
+<img
+    class="full-screen-width"
+    src="https://user-images.githubusercontent.com/73039742/196014024-25589488-15f6-44a9-ba2e-dcd0739751ac.png"
+/>
+
+
 
 ## [5] Start Annotating
 
