@@ -84,6 +84,27 @@ Consider the following examples of ways one could annotate an image using the mi
 <center>
   <img src="/muadocs/assets/img/examples/standard/video2038633572.gif" width="60%" />
 </center>
+<center>
+  <img src="/muadocs/assets/img/examples/standard/video3038633572.giff" width="60%" />
+</center>
+<center>
+  <img src="/muadocs/assets/img/examples/standard/video4038633572.gif" width="60%" />
+</center>
+<center>
+  <img src="/muadocs/assets/img/examples/standard/video5038633572.gif" width="60%" />
+</center>
+<center>
+  <img src="/muadocs/assets/img/examples/standard/video6038633572.gif" width="60%" />
+</center>
+<center>
+  <img src="/muadocs/assets/img/examples/standard/video7038633572.gif" width="60%" />
+</center>
+<center>
+  <img src="/muadocs/assets/img/examples/standard/video8038633572.gif" width="60%" />
+</center>
+<center>
+  <img src="/muadocs/assets/img/examples/standard/video9038633572.gif" width="60%" />
+</center>
 
 Additionally, use the following examples of annotations directly taken from the LIDC-IDRI dataset as references:
 
@@ -108,6 +129,7 @@ Additionally, use the following examples of annotations directly taken from the 
     class="full-screen-width"
     src="https://user-images.githubusercontent.com/73039742/196014024-25589488-15f6-44a9-ba2e-dcd0739751ac.png"
 />
+
 
 
 
