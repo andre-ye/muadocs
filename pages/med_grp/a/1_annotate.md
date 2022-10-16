@@ -109,11 +109,6 @@ Consider the following examples of ways one could annotate an image using the st
 Additionally, use the following examples of annotations directly taken from the LIDC-IDRI dataset as references:
 
 <script>
-  
-  body {
-    overflow-x: hidden;
-  }
-  
   .full-screen-width {
     position: relative;
     left: 50%;
