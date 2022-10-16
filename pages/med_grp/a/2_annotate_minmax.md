@@ -53,7 +53,7 @@ Rather than deleting annotations, you can also add and subtract regions to edit 
 
 ![](/muadocs/assets/img/a4_save_min.gif)
 
-Now, you will draw the max hypothesis. Because the max hypothesis will include the min hypothesis, you will annotate the max region in terms of additions to the min hypothesis. You can do this by clicking on `Add` and looping in additional regions which could possibly be of relevance. You will still be able to see the min hypothesis 'under' the max hypothesis, even though you cannot edit it anymore.
+Now, you will draw the max hypothesis. Because the max hypothesis will include the min hypothesis, you will annotate the max region in terms of additions to the min hypothesis. You can do this by clicking on `Add` and looping in additional regions which could possibly be of relevance. You will still be able to see the min hypothesis 'under' the max hypothesis, even though you cannot edit it anymore. 
 
 ![](/muadocs/assets/img/a5_draw_max_add.gif)
 
@@ -66,6 +66,8 @@ While annotating, you may find it helpful to change the opacity of the annotatio
 ![](/muadocs/assets/img/a7_check_verify_fade.gif)
 
 When you are finished annotating the max hypothesis, you can move on to the next image. There is no need to save the max hypothesis. If you would like to restart annotating, simply select all annotations on the page with `Pick` and delete them all.
+
+**Note that it is possible for the max and min hypothesis to be the same** (i.e. no changes are made after clicking `Save Min`) in cases where there is no uncertainty at all - it is clear what should or should not be annotated. That being said, all of the images selected for annotation had high disagreement between radiologists in the LIDC-IDRI dataset.
 
 ## [4] Examples
 
