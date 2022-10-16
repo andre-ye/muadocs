@@ -69,7 +69,35 @@ When you are finished annotating the max hypothesis, you can move on to the next
 
 ## [4] Examples
 
-Feel free to refer back to these examples.
+Consider the following examples of ways one could annotate an image using the min/max protocol. Feel free to refer back to these examples as needed while you are annotating.
+
+<center>
+  <img src="/muadocs/assets/img/examples/standard/video2038633572.gif" width="60%" />
+</center>
+
+Additionally, use the following examples of annotations directly taken from the LIDC-IDRI dataset as references:
+
+<script>
+  
+  body {
+    overflow-x: hidden;
+  }
+  
+  .full-screen-width {
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    max-width: 100vw;
+    width: 100vw;
+  }
+</script>
+
+<img
+    class="full-screen-width"
+    src="https://user-images.githubusercontent.com/73039742/196014024-25589488-15f6-44a9-ba2e-dcd0739751ac.png"
+/>
 
 ## [5] Start Annotating
 
