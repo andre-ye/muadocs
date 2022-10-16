@@ -1,7 +1,7 @@
 ---
 layout: Post
 content-type: static
-permalink: /med_grp/a/annotate
+permalink: /med_grp/b/annotate2
 title: Standard Protocol
 ---
 
