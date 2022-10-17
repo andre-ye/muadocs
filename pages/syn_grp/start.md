@@ -9,5 +9,5 @@ title: SD Group Start
 
 You are currently viewing the **Synthetic Data** track. Please select your session type, `A` or `B`.
 
-- I'm in [session type A](/syn_grp/a/start)
-- I'm in [session type B](/syn_grp/b/start)
+- I'm in [session type A](/muadocs/syn_grp/a/start)
+- I'm in [session type B](/muadocs/syn_grp/b/start)
