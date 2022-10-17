@@ -94,16 +94,16 @@ Additionally, use the following examples of annotations directly taken from the 
 ![image](https://user-images.githubusercontent.com/73039742/196014890-da0ca924-06a8-4913-816e-c3e729e54400.png)
 
 
-
 ## [5] Start Annotating
 
 You may now begin annotating your range. Please ask your session lead if you have any questions or difficulties. You should take at most 30 to 40 seconds for each image, although you may be slower at first as you are acquainting yourself with the annotation interface.
 
 ## [6] Experience Survey
 
-After you are finished annotating, please fill out this quick halfway [experience form](https://docs.google.com/forms/d/e/1FAIpQLSeD-Av6psdCXgZTDqjVjYw38tNFtWsD_lyDmDarc2_tpGBObA/viewform?usp=sf_link){:target="_blank"}.
+After you are finished annotating, please fill out this quick halfway [experience form](https://docs.google.com/forms/d/e/1FAIpQLSd_qIO-LopH4ZIGSIV6szSW1DRGgIVbsONFKePFedqUco58Pw/viewform?usp=sf_link){:target="_blank"}.
 
 ## [7] Finished?
 
-Congradulations! You're halfway done. [Let's Go →](/muadocs/med_grp/a/annotate2)
+Your participation session is complete! 🥳 Thanks for participating in this study. Check in with your session lead before leaving. Expect to receive a gift card soon. 
+[Let's Go Home →](/muadocs)
 
