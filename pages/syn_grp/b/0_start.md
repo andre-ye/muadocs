@@ -38,7 +38,7 @@ As an annotator, you must use your intuition about objectness to determine the s
 In your establishment of the separation between blobs, **be aggressive and intuitive**: take a brief overall look at the separation, and if they two masses do not look like they would be jointly connected particles, do not consider them as possibly connected. Don't overthink it!
 
 ## [2] Short Quiz
-**Take this [short quiz](https://docs.google.com/forms/d/e/1FAIpQLSc2iu8S33Uz5YzCGWmItfL5jWV1-h91Ol24dQYVdNavIQOFdg/viewform?usp=sf_link){:target="_blank")** to evaluate your understanding. If you make any mistakes, make sure you understand why!
+**Take this** [**short quiz**](https://docs.google.com/forms/d/e/1FAIpQLSc2iu8S33Uz5YzCGWmItfL5jWV1-h91Ol24dQYVdNavIQOFdg/viewform?usp=sf_link){:target="_blank") to evaluate your understanding. If you make any mistakes, make sure you understand why!
 
 ## [3] Proceed
 
