@@ -10,7 +10,7 @@ title: Standard Protocol
 
 **Medical Data Track, Session A**
 
-Now, you will annotate 40 images using the **standard protocol**. In this method, simply annotate
+You will annotate 40 images using the **standard protocol**. In this method, simply annotate
 a single boundary around the relevant node. 
 
 ## [1] Setting up the Annotation Interface
