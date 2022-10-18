@@ -98,7 +98,7 @@ Consider the following examples of ways one could annotate an image using the mi
 You may now begin annotating your range. Please ask your session lead if you have any questions or difficulties. You should take at most 30 to 40 seconds for each image, although you may be slower at first as you are acquainting yourself with the annotation interface.
 
 ## [6] Experience Survey
-After you are finished annotating, please fill out this quick second-half [experience form](https://docs.google.com/forms/d/e/1FAIpQLSeFyTy7SCcg1BDDRsAVXJ0C7zMnOPzh0B-GfdAvLCDO_Yr6sQ/viewform?usp=sf_link){:target="_blank"}.
+After you are finished annotating, please fill out this quick second-half [experience form](https://docs.google.com/forms/d/e/1FAIpQLScDW7b0i7BVqabaOWvjC7lbjJJZsHZi8O1vRs_cybtZRm3jKw/viewform?usp=sf_link){:target="_blank"}.
 
 ## [7] Finished?
 
