@@ -55,6 +55,8 @@ Sessions are run without coordinated facilitation by the session lead. That is, 
 - [Synthetic Data Track, Session Type A](https://andre-ye.github.io/muadocs/syn_grp/a/start){:target="_blank"}
 - [Synthetic Data Track, Session Type B](https://andre-ye.github.io/muadocs/syn_grp/b/start){:target="_blank"}
 
+If you are interested in how we will use your annotations, you can learn more [here](https://andre-ye.github.io/muadocs/about){:target="_blank"}, which can provide more context for the study. (This is by no means required.)
+
 ## Questions
 Please direct any questions, comments, or changes to your plans to `andreye@uw.edu`.
 
