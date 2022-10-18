@@ -17,6 +17,8 @@ Annotators are split into two groups:
 
 Moreover, sessions will be split into two types: A and B. Participants will know which session type they are in.
 
+You can find out your annotator number, your session type, your group, and your session date in this [spreadsheet](https://docs.google.com/spreadsheets/d/1ooq0rPVBhkdJOXUsePa68Hk7pVB25mmtPTn0UrPGerU/edit?usp=sharing){:target="_blank"}.
+
 ## Session Logistics
 
 Sessions are scheduled across six days, all at the same time from 5:00 PM to 6:00 PM.
