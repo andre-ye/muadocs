@@ -28,7 +28,6 @@ Please locate your assigned image range for **min/max** annotation. The annotati
 
 The time will be projected on the board. You will have been given a physical time recording sheet. When you begin annotating, record the current time (minutes and seconds). After you finish annotating an image, record the current time (minutes and seconds) and move on to the next image as soon as you can.
 
-
 ![image](https://user-images.githubusercontent.com/73039742/196322747-b6fa94f7-a8aa-4bc9-86a8-52129dc04bdb.png)
 
 ## [3] Annotating with the Min/Max Protocol
