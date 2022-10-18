@@ -20,14 +20,46 @@ object is blurred or darkened, making it difficult to classify either as part of
 you can exclude it from the min region but include it in the max region.
 
 ## [1] Setting up the Annotation Interface
-Please locate your assigned image range for **min/max** annotation. The annotation assignments are [here](https://andre-ye.github.io/muadocs/annot_assigns/med){:target="_blank"}. For instance, suppose that you are annotator ID #4. Your assigned image range for standard annotation is 376 - 415.
 
-![image](https://user-images.githubusercontent.com/73039742/196009859-5d9af61a-bbf1-477c-bb10-6192d1d8daf8.png)
+Please follow the following steps to prepare for annotation.
+
+1. Open the [annotation interface](https://mua.cs.washington.edu/){:target="_blank"} (opens in new tab).
+
+![image](https://user-images.githubusercontent.com/73039742/196007328-88327886-fcf4-4824-933d-5dced02e3a84.png)
+
+2. Click "Start labelling".
+
+![image](https://user-images.githubusercontent.com/73039742/196007355-0476558f-7696-4ffa-bde5-d3a101b7d4e2.png)
+
+3. Open the [MD annotation assignments](/muadocs/annot_assigns/med){:target="_blank"} (opens in new tab).
+
+![image](https://user-images.githubusercontent.com/73039742/196007396-aace832b-ad19-4910-aa20-979c810228c3.png)
+
+
+4. Locate your assigned image range for **standard** annotation. Keep this tab open so you can refer back to it if needed. For instance, suppose that you are annotator ID #4. Your assigned image range for standard annotation is 335 - 374.
+
+![image](https://user-images.githubusercontent.com/73039742/196007429-ce04a0e7-42b4-4581-9ce0-975684bf4956.png)
+
+5. Locate the image selection box at the top left of the annotation interface.
+
+![image](https://user-images.githubusercontent.com/73039742/196007467-dc9476d4-100b-45d8-8fa4-23ecbe48d825.png)
+
+6. Type in the first number in your range. This is the first image you will be annotating.
+
+![image](https://user-images.githubusercontent.com/73039742/196007505-467f5a89-c1c6-4f20-8017-376f1ffebbd9.png)
+
+To confirm that this is indeed the first number in your range, you can navigate to the previous image (click the left arrow button): you should see a black image with white text reading "begin standard annotation mode". 
+
+7. You will keep on annotating until you hit the end of your range - you will see a black image with white text on it indicating the range has ended, such as the following (but may not contain the same text):
+
+![image](https://user-images.githubusercontent.com/73039742/196007565-98b04119-3ede-41eb-9dbf-606fa85b1787.png)
 
 
 ## [2] Preparing to Time Yourself
 
 The time will be projected on the board. You will have been given a physical time recording sheet. When you begin annotating, record the current time (minutes and seconds). After you finish annotating an image, record the current time (minutes and seconds) and move on to the next image as soon as you can.
+
+![image](https://user-images.githubusercontent.com/73039742/196322672-e5fcbec2-ccf8-417c-a876-cffe0f6d529f.png)
 
 ## [3] Annotating with the Min/Max Protocol
 
