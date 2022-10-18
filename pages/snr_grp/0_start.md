@@ -15,14 +15,7 @@ In the second half, you will annotate another 40 images with the **min-max** ann
 This page provides important contextual information on pulmonary lung nodes as a refresher or additional background.
 After this page, you will begin annotating the first half of images.
 
-## [1] The Lung
-
-**The lung** is an important respiratory organ; inhaled air passes through the trachea and into the lungs through tabular branches (_bronchi_), which divide into successively more miniscule branchioles. The open space within the lung is the _cavity_, and the walls around it enclosing the lung are the _chest walls_.
- 
-![image](https://user-images.githubusercontent.com/73039742/196003077-2ffaa2b3-17f6-48ab-bec0-2fa48f644297.png)
-<small>Diagram of a lung. Image from <a href="https://newportcts.com/thoracic-surgery/lung-cancer-surgery/lung-cancer/" target="_blank">Newport Cardiac & Thoraric Surgery</small>.
-
-## [2] Pulmonary Nodes and Lung Cancer
+## [1] Pulmonary Nodes and Lung Cancer
  
 **Pulmonary nodes**, or lung nodules, are abnormal growths which form on the lung. Pulmonary nodes can form from any number of causes, including the calcification of granuloma (clumps of cells) from inflamed lung tissue, fungal infections, and tumors. While most lung nodules are not cancerous, they can indicate the possibility of lung cancer. These nodes appear on imaging scans; the size and shape of the node is strongly correlated with this possibility.
   
@@ -33,14 +26,14 @@ After this page, you will begin annotating the first half of images.
 
 > [Healthline](https://www.healthline.com/health/spot-on-the-lung){:target+"_blank"}
 
-## [3] Pulmonary Node Identification
+## [2] Pulmonary Node Identification
  
 Computer vision models can automatically sweep through large amounts of lung scan data to identify and characterize pulmonary lungs, which can be considered in aggregate by a radiologist to make a judgement. Because the specific shape and size of a lung node is important to characterizing its likelihood of being cancerous, it is important that such computer vision models are trustworthy - when the model encounters an ambiguous context in which it simply cannot make a confident prediction, this lack of confidence is communicated. Current standard medical computer vision models lack strong uncertainty representation measures.
   
 ![image](https://user-images.githubusercontent.com/73039742/196003577-36cede03-d595-4b32-ac18-a82765359b76.png)
 <small>An example of lung CT scans with lung nodes bounded by black boxes. From "Automated Lung Nodule Detection and Classification Using Deep Learning Combined with Multiple Strategies", Nasrullah et al.</small>
  
-## [4] The LIDC Dataset
+## [3] The LIDC Dataset
 
 You will be annotating modified images from the Lung Image Database Consortium and Image Database Resource Initiative ([LIDC-IDRI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3041807/){:target="_blank"}) dataset. This large-scale collaborative effort contains many Computed Tomagraphy (CT) scans of many different types of lung nodules. **You do not need to localize** (find) **where the lung nodes are**; rather, you will be presented with a subregion which is **guaranteed to contain a centered lung node**. Your responsibility is to annotate the border of the subregion. Rephrased, you already know that every lung contains a pulmonary nodule and that the relevant node is centered, but you must find its shape and size.
   
@@ -54,7 +47,7 @@ You'll see that nodule annotations, evne by professional radiologists, often dis
  
 These disagreements result from differences in visual perception: some challenges include whether to include a darker region as part of the lung node, or how much of an auxiliary structure to include if the node is attached to a broader wall or branch (where does the node end and the structure begin?).
 
-## [5] Proceed
+## [4] Proceed
  
 Next, you will proceed to annotating your first batch of 40 images. [Let's Go →](/muadocs/snr_grp/annotate)
 
