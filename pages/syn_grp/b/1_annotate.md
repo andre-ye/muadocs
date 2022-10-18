@@ -1,7 +1,7 @@
 ---
 layout: Post
 content-type: static
-permalink: /syn_grp/b/annotate2
+permalink: /syn_grp/b/annotate
 title: Minmax Protocol
 ---
 
