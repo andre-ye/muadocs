@@ -83,16 +83,23 @@ For the duration of these images, do not touch the `Save Min` button.
 Consider the following examples of ways one could annotate an image using the standard protocol. Feel free to refer back to these examples as needed while you are annotating.
 
 <center>
-  <img src="/muadocs/assets/img/examples/standard/video2038633572.gif" width="60%" />
+  <img src="/muadocs/assets/img/syn_stand_ex_0.gif" width="60%" />
 </center>
-
-Additionally, use the following examples of annotations as references:
-
-![image](https://user-images.githubusercontent.com/73039742/196014838-e1194a72-8919-4513-b097-d6559aeabd0f.png)
-![image](https://user-images.githubusercontent.com/73039742/196014852-c536d096-40d4-4ba5-9f5b-dd337012f6f9.png)
-![image](https://user-images.githubusercontent.com/73039742/196014865-086c7733-910a-48d0-9b1d-3e1a7e1829f4.png)
-![image](https://user-images.githubusercontent.com/73039742/196014876-aa3abc7d-962b-4c5d-ab70-f82d69338888.png)
-![image](https://user-images.githubusercontent.com/73039742/196014890-da0ca924-06a8-4913-816e-c3e729e54400.png)
+<center>
+  <img src="/muadocs/assets/img/syn_stand_ex_1.gif" width="60%" />
+</center>
+<center>
+  <img src="/muadocs/assets/img/syn_stand_ex_2.gif" width="60%" />
+</center>
+<center>
+  <img src="/muadocs/assets/img/syn_stand_ex_3.gif" width="60%" />
+</center>
+<center>
+  <img src="/muadocs/assets/img/syn_stand_ex_4.gif" width="60%" />
+</center>
+<center>
+  <img src="/muadocs/assets/img/syn_stand_ex_5.gif" width="60%" />
+</center>
 
 ## [5] Start Annotating
 
