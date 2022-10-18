@@ -73,19 +73,19 @@ When you are finished annotating the max hypothesis, you can move on to the next
 Consider the following examples of ways one could annotate an image using the min/max protocol. Feel free to refer back to these examples as needed while you are annotating.
 
 <center>
-  <img src="/muadocs/assets/img/examples/minmax/video1021640606.gif" width="60%" />
+  <img src="/muadocs/assets/img/examples/minmax/video1021640606.gif" width="80%" />
 </center>
 <center>
-  <img src="/muadocs/assets/img/examples/minmax/video2021640606.gif" width="60%" />
+  <img src="/muadocs/assets/img/examples/minmax/video2021640606.gif" width="80%" />
 </center>
 <center>
-  <img src="/muadocs/assets/img/examples/minmax/video3021640606.gif" width="60%" />
+  <img src="/muadocs/assets/img/examples/minmax/video3021640606.gif" width="80%" />
 </center>
 <center>
-  <img src="/muadocs/assets/img/examples/minmax/video4021640606.gif" width="60%" />
+  <img src="/muadocs/assets/img/examples/minmax/video4021640606.gif" width="80%" />
 </center>
 <center>
-  <img src="/muadocs/assets/img/examples/minmax/video5021640606.gif" width="60%" />
+  <img src="/muadocs/assets/img/examples/minmax/video5021640606.gif" width="80%" />
 </center>
 
 Additionally, use the following examples of annotations directly taken from the LIDC-IDRI dataset as guiding references (even though they are not annotated in min/max protocol format):
