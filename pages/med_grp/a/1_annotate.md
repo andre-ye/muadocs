@@ -51,6 +51,9 @@ To confirm that this is indeed the first number in your range, you can navigate 
 
 The time will be projected on the board. You will have been given a physical time recording sheet. When you begin annotating, record the current time (minutes and seconds). After you finish annotating an image, record the current time (minutes and seconds) and move on to the next image as soon as you can.
 
+![image](https://user-images.githubusercontent.com/73039742/196322747-b6fa94f7-a8aa-4bc9-86a8-52129dc04bdb.png)
+
+
 ## [3] Annotating with the Standard Protocol
 
 The annotation interface is designed to be simple. You will annotate a series of images using a _poly tool_. To zoom in, scroll forward; to zoom out, scroll back. To move the image around, right click on the image and drag it into the desired location. 
