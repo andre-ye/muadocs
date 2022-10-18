@@ -1,7 +1,7 @@
 ---
 layout: Post
 content-type: static
-permalink: /med_grp/a/annotate2
+permalink: /snr_grp/annotate2
 title: Minmax Protocol
 ---
 
