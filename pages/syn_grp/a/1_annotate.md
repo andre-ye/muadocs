@@ -51,27 +51,29 @@ To confirm that this is indeed the first number in your range, you can navigate 
 
 The time will be projected on the board. You will have been given a physical time recording sheet. When you begin annotating, record the current time (minutes and seconds). After you finish annotating an image, record the current time (minutes and seconds) and move on to the next image as soon as you can.
 
+![image](https://user-images.githubusercontent.com/73039742/196322672-e5fcbec2-ccf8-417c-a876-cffe0f6d529f.png)
+
 ## [3] Annotating with the Standard Protocol
 
 The annotation interface is designed to be simple. You will annotate a series of images using a _poly tool_. To zoom in, scroll forward; to zoom out, scroll back. To move the image around, right click on the image and drag it into the desired location. 
 
 To begin, click on `Annotate` > `Poly`. This will automatically set you up to draw a polygon. Move your cursor over the image, and click where you want to make a vertex. When you are finished, right-click. **This connects your most recently drawn vertex to the first vertex**, enclosing a polygon. 
 
-![](/muadocs/assets/img/0_click_annotate.gif)
+![](/muadocs/assets/img/syn_stand__0_pick.gif)
 
 If you are unhappy with an annotation, you can delete it. Make sure that the appropriate annotation is selected (it should have red borders). If you created it recently, it may already be selected. You can select an annotation by first pressing `Pick`, then clicking on the desired regions. Then, click on the red trash can button.
 
-![](/muadocs/assets/img/1_delete.gif)
+![](/muadocs/assets/img/syn_stand__1_delete.gif)
 
 A more convenient way to draw polygons is to 'free-draw', in which you can freely move your mouse to define a curved region. To do this, click on `Annotate` > `Poly`, but **hold shift and click while you move your mouse** around the desired region. When you are finished, right-click. This will similarly connect the most recently drawn point to the first vertex, enclosing the polygon.
 
-![](/muadocs/assets/img/2_shift_annotate.gif)
+![](/muadocs/assets/img/syn_stand__2_continuous.gif)
 
 Rather than deleting annotations, you can also add and subtract regions to edit an existing annotation.
 
-![](/muadocs/assets/img/3_add.gif)
+![](/muadocs/assets/img/syn_stand__3_add.gif)
 
-![](/muadocs/assets/img/4_subtract.gif)
+![](/muadocs/assets/img/syn_stand__4_subtract.gif)
 
 You can also change the opacity of the annotations by changing the `Label Appearance` setting. This can let you toggle quickly between the original image and the annotated image to determine if the annotations fit the image. 
 
