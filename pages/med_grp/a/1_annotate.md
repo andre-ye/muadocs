@@ -17,33 +17,33 @@ a single boundary around the relevant node.
 
 Please follow the following steps to prepare for annotation.
 
-1 | Open the [annotation interface](https://mua.cs.washington.edu/){:target="_blank"} (opens in new tab).
+1 ⇝ Open the [annotation interface](https://mua.cs.washington.edu/){:target="_blank"} (opens in new tab).
 
 ![image](https://user-images.githubusercontent.com/73039742/196007328-88327886-fcf4-4824-933d-5dced02e3a84.png)
 
-2 | Click "Start labelling".
+2 ⇝ Click "Start labelling".
 
 ![image](https://user-images.githubusercontent.com/73039742/196007355-0476558f-7696-4ffa-bde5-d3a101b7d4e2.png)
 
-3 | Open the [MD annotation assignments](/muadocs/annot_assigns/med){:target="_blank"} (opens in new tab).
+3 ⇝ Open the [MD annotation assignments](/muadocs/annot_assigns/med){:target="_blank"} (opens in new tab).
 
 ![image](https://user-images.githubusercontent.com/73039742/196007396-aace832b-ad19-4910-aa20-979c810228c3.png)
 
-4 | Locate your assigned image range for **standard** annotation. Keep this tab open so you can refer back to it if needed. For instance, suppose that you are annotator ID #4. Your assigned image range for standard annotation is 335 - 374.
+4 ⇝ Locate your assigned image range for **standard** annotation. Keep this tab open so you can refer back to it if needed. For instance, suppose that you are annotator ID #4. Your assigned image range for standard annotation is 335 - 374.
 
 ![image](https://user-images.githubusercontent.com/73039742/196007429-ce04a0e7-42b4-4581-9ce0-975684bf4956.png)
 
-5 | Locate the image selection box at the top left of the annotation interface.
+5 ⇝ Locate the image selection box at the top left of the annotation interface.
 
 ![image](https://user-images.githubusercontent.com/73039742/196007467-dc9476d4-100b-45d8-8fa4-23ecbe48d825.png)
 
-6 | Type in the first number in your range. This is the first image you will be annotating.
+6 ⇝ Type in the first number in your range. This is the first image you will be annotating.
 
 ![image](https://user-images.githubusercontent.com/73039742/196007505-467f5a89-c1c6-4f20-8017-376f1ffebbd9.png)
 
 To confirm that this is indeed the first number in your range, you can navigate to the previous image (click the left arrow button): you should see a black image with white text reading "begin standard annotation mode". 
 
-7 | You will keep on annotating until you hit the end of your range - you will see a black image with white text on it indicating the range has ended, such as the following (but may not contain the same text):
+7 ⇝ You will keep on annotating until you hit the end of your range - you will see a black image with white text on it indicating the range has ended, such as the following (but may not contain the same text):
 
 ![image](https://user-images.githubusercontent.com/73039742/196007565-98b04119-3ede-41eb-9dbf-606fa85b1787.png)
 
