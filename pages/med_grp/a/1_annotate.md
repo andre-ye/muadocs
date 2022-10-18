@@ -84,28 +84,28 @@ For the duration of these images, do not touch the `Save Min` button.
 Consider the following examples of ways one could annotate an image using the standard protocol. Feel free to refer back to these examples as needed while you are annotating.
 
 <center>
-  <img src="/muadocs/assets/img/examples/standard/video2038633572.gif" width="60%" />
+  <img src="/muadocs/assets/img/examples/standard/video2038633572.gif" width="80%" />
 </center>
 <center>
-  <img src="/muadocs/assets/img/examples/standard/video3038633572.giff" width="60%" />
+  <img src="/muadocs/assets/img/examples/standard/video3038633572.gif" width="80%" />
 </center>
 <center>
-  <img src="/muadocs/assets/img/examples/standard/video4038633572.gif" width="60%" />
+  <img src="/muadocs/assets/img/examples/standard/video4038633572.gif" width="80%" />
 </center>
 <center>
-  <img src="/muadocs/assets/img/examples/standard/video5038633572.gif" width="60%" />
+  <img src="/muadocs/assets/img/examples/standard/video5038633572.gif" width="80%" />
 </center>
 <center>
-  <img src="/muadocs/assets/img/examples/standard/video6038633572.gif" width="60%" />
+  <img src="/muadocs/assets/img/examples/standard/video6038633572.gif" width="80%" />
 </center>
 <center>
-  <img src="/muadocs/assets/img/examples/standard/video7038633572.gif" width="60%" />
+  <img src="/muadocs/assets/img/examples/standard/video7038633572.gif" width="80%" />
 </center>
 <center>
-  <img src="/muadocs/assets/img/examples/standard/video8038633572.gif" width="60%" />
+  <img src="/muadocs/assets/img/examples/standard/video8038633572.gif" width="80%" />
 </center>
 <center>
-  <img src="/muadocs/assets/img/examples/standard/video9038633572.gif" width="60%" />
+  <img src="/muadocs/assets/img/examples/standard/video9038633572.gif" width="80%" />
 </center>
 
 Additionally, use the following examples of annotations directly taken from the LIDC-IDRI dataset as references:
