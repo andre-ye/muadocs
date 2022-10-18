@@ -14,38 +14,9 @@ You will annotate 40 images using the **standard protocol**. In this method, sim
 a single boundary around the relevant node.
 
 ## [1] Setting up the Annotation Interface
+Please locate your assigned image range for **min/max** annotation. The annotation assignments are [here](https://andre-ye.github.io/muadocs/annot_assigns/syn){:target="_blank"}. For instance, suppose that you are annotator ID #4. Your assigned image range for standard annotation is 2866 - 2905.
 
-Please follow the following steps to prepare for annotation.
-
-1 ⇝ Open the [annotation interface](https://mua.cs.washington.edu/){:target="_blank"} (opens in new tab).
-
-![image](https://user-images.githubusercontent.com/73039742/196007328-88327886-fcf4-4824-933d-5dced02e3a84.png)
-
-2 ⇝ Click "Start labelling".
-
-![image](https://user-images.githubusercontent.com/73039742/196007355-0476558f-7696-4ffa-bde5-d3a101b7d4e2.png)
-
-3 ⇝ Open the [SD annotation assignments](/muadocs/annot_assigns/syn){:target="_blank"} (opens in new tab).
-
-![image](https://user-images.githubusercontent.com/73039742/196317354-8310fbcc-b8d5-46e8-a242-5b053a489c03.png)
-
-4 ⇝ Locate your assigned image range for **standard** annotation. Keep this tab open so you can refer back to it if needed. For instance, suppose that you are annotator ID #4. Your assigned image range for standard annotation is 2825 - 2864.
-
-![image](https://user-images.githubusercontent.com/73039742/196317512-0ae069a1-4fc3-471b-a08f-865cb352b3f3.png)
-
-5 ⇝ Locate the image selection box at the top left of the annotation interface.
-
-![image](https://user-images.githubusercontent.com/73039742/196007467-dc9476d4-100b-45d8-8fa4-23ecbe48d825.png)
-
-6 ⇝ Type in the first number in your range. This is the first image you will be annotating.
-
-![image](https://user-images.githubusercontent.com/73039742/196317655-fc9cb86c-c04b-41d5-979d-34c713f2ee8a.png)
-
-To confirm that this is indeed the first number in your range, you can navigate to the previous image (click the left arrow button): you should see a black image with white text reading "begin standard annotation mode". 
-
-7 ⇝ You will keep on annotating until you hit the end of your range - you will see a black image with white text on it indicating the range has ended, such as the following (but may not contain the same text):
-
-![image](https://user-images.githubusercontent.com/73039742/196007565-98b04119-3ede-41eb-9dbf-606fa85b1787.png)
+![image](https://user-images.githubusercontent.com/73039742/196323345-1b360537-1a30-4490-814e-7a856a7bd7d7.png)
 
 ## [2] Preparing to Time Yourself
 
@@ -107,9 +78,10 @@ You may now begin annotating your range. Please ask your session lead if you hav
 
 ## [6] Experience Survey
 
-After you are finished annotating, please fill out this quick halfway [experience form](https://docs.google.com/forms/d/e/1FAIpQLSfa21XF1UuG9jeex5xhxrEj0NvUGWj5LRnpFSY78ZbS-KhHuA/viewform?usp=sf_link){:target="_blank"}.
+After you are finished annotating, please fill out this quick halfway [experience form](https://docs.google.com/forms/d/e/1FAIpQLSddtw9kfAQ5jQPZV3Xl89_iZO1T59gt6rzHtorkRElGzhq_EA/viewform?usp=sf_link){:target="_blank"}.
 
 ## [7] Finished?
 
-Congradulations! You're halfway done. [Let's Go →](/muadocs/syn_grp/a/annotate2)
+Your participation session is complete! 🥳 Thanks for participating in this study. Check in with your session lead before leaving. Expect to receive a gift card soon. 
+[Let's Go Home →](/muadocs)
 
