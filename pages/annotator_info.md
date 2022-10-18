@@ -17,7 +17,7 @@ Annotators are split into two groups:
 
 Moreover, sessions will be split into two types: A and B. Participants will know which session type they are in.
 
-You can find out your annotator number, your session type, your group, and your session date in this [spreadsheet](https://docs.google.com/spreadsheets/d/1ooq0rPVBhkdJOXUsePa68Hk7pVB25mmtPTn0UrPGerU/edit?usp=sharing){:target="_blank"}.
+You can find out your annotator number, your session type, your group, and your session date in this [spreadsheet](https://docs.google.com/spreadsheets/d/1ooq0rPVBhkdJOXUsePa68Hk7pVB25mmtPTn0UrPGerU/edit?usp=sharing){:target="_blank"}. If you need to change your session date or schedule a virtual session due to a conflict, no problem - just send an email.
 
 ## Session Logistics
 
@@ -39,13 +39,26 @@ All sessions are located in room 345 at the [Gates Center](https://www.google.co
 
 Sessions are run without coordinated facilitation by the session lead. That is, annotators simply follow through instructions at their own pace. The lead is present to respond to questions and other possible problems which may arise, as well as to ensure smooth functioning. This means that annotators which complete their task before the hour is over may leave early. 
 
+## What to Bring
+- Your computer (charged)
+- A mouse (if you have one - it will make the task much easier. We will try to provide mice if you don't have one)
+- Pen / pencil (we will have some extras)
+- Water bottle / snacks / other refreshments
+- Anything else to make you comfortable during the hour!
+
 ## Preparing for Sessions
 
-Please familiarize yourself with your track beforehand once you know your data group and session type, but do not do anything yet (do not interact with the annotation interface beyond any light exploration, do not fill out any forms). Getting acquainted with the process can reduce frustration during the session. Moreover, it can make the session go smoother - meaning you may be able to leave early.
+**Please familiarize yourself with your track beforehand** once you know your data group and session type, but **do not do anything yet** (do not interact with the annotation interface beyond any light exploration, do not fill out any forms). Getting acquainted with the process can reduce frustration during the session. Moreover, it can make the session go smoother and faster - meaning you may be able to leave early. If you have questions about the track, they can be addressed during the session.
+
+- [Medical Data Track, Session Type A](https://andre-ye.github.io/muadocs/med_grp/a/start){:target="_blank"}
+- [Medical Data Track, Session Type B](https://andre-ye.github.io/muadocs/med_grp/b/start){:target="_blank"}
+- [Synthetic Data Track, Session Type A](https://andre-ye.github.io/muadocs/syn_grp/a/start){:target="_blank"}
+- [Synthetic Data Track, Session Type B](https://andre-ye.github.io/muadocs/syn_grp/b/start){:target="_blank"}
 
 ## Questions
 Please direct any questions, comments, or changes to your plans to `andreye@uw.edu`.
 
-
+## Thanks Again!
+This work would not be possible without your participation. Thanks again for your involvement in this study.
 
 
