@@ -48,9 +48,9 @@ Please follow the following steps to prepare for annotation.
 
 ![image](https://user-images.githubusercontent.com/73039742/196007505-467f5a89-c1c6-4f20-8017-376f1ffebbd9.png)
 
-To confirm that this is indeed the first number in your range, you can navigate to the previous image (click the left arrow button): you should see a black image with white text reading "begin standard annotation mode". 
+To confirm that this is indeed the first number in your range, you can navigate to the previous image (click the left arrow button): you should see a black image with white text reading "begin min/max annotation mode". 
 
-7 ⇝ You will keep on annotating until you hit the end of your range - you will see a black image with white text on it indicating the range has ended, such as the following (but may not contain the same text):
+7 ⇝ You will keep on annotating until you hit the end of your range - you will see a black image with white text on it indicating the range has ended, such as the following **(but may not contain the same text)**:
 
 ![image](https://user-images.githubusercontent.com/73039742/196007565-98b04119-3ede-41eb-9dbf-606fa85b1787.png)
 
