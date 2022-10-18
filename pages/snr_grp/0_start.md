@@ -12,7 +12,7 @@ In this session, you will be identifying the shape of pulmonary nodes captured o
 In the first half of the session, you will annotate 40 images with the **standard** annotation protocol. 
 In the second half, you will annotate another 40 images with the **min-max** annotation protocol.
 
-Please read this page carefully: it provides important contextual information on pulmonary lung nodes.
+This page provides important contextual information on pulmonary lung nodes as a refresher or additional background.
 After this page, you will begin annotating the first half of images.
 
 ## [1] The Lung
@@ -48,16 +48,13 @@ Four such samples are displayed below. Note that each contains a centered node, 
   
 ![image](https://user-images.githubusercontent.com/73039742/196003914-94dba8ff-af48-4acd-8a4a-b0f946df0ca9.png)
  
-You'll see that even professional radiologists asked to annotate the shape and size of nodules often disagree with each other. In the following series of examples, the left image contains 'wider context', the middle image shows the 'restricted window' (which you will be annotating), and the right image displays different annotations for the nodule.
+You'll see that nodule annotations, evne by professional radiologists, often disagree with each other. In the following series of examples, the left image contains 'wider context', the middle image shows the 'restricted window' (which you will be annotating), and the right image displays different annotations for the nodule.
  
 ![image](https://user-images.githubusercontent.com/73039742/196005058-868494c9-c1b8-477b-833c-67b2c23e18eb.png)
  
 These disagreements result from differences in visual perception: some challenges include whether to include a darker region as part of the lung node, or how much of an auxiliary structure to include if the node is attached to a broader wall or branch (where does the node end and the structure begin?).
 
-## [5] Short Quiz
-**Take this short quiz** to evaluate your understanding. [Let's Go →](https://docs.google.com/forms/d/e/1FAIpQLSdJzcB5jnq8lk4uEcsd3FxMVo1syntPm-CTUKSDxfd4a57zqw/viewform?usp=sf_link){:target="_blank"}. If you make any mistakes, make sure you understand why!
-
-## [6] Proceed
+## [5] Proceed
  
-Next, you will proceed to annotating your first batch of 40 images. [Let's Go →](/muadocs/med_grp/a/annotate)
+Next, you will proceed to annotating your first batch of 40 images. [Let's Go →](/muadocs/snr_grp/annotate)
 
