@@ -20,9 +20,9 @@ object is blurred or darkened, making it difficult to classify either as part of
 you can exclude it from the min region but include it in the max region.
 
 ## [1] Setting up the Annotation Interface
-Please locate your assigned image range for **min/max** annotation. The annotation assignments are [here](https://andre-ye.github.io/muadocs/annot_assigns/med){:target="_blank"}. For instance, suppose that you are annotator ID #4. Your assigned image range for min/max annotation is 376 - 415.
+Please locate your assigned image range for **min/max** annotation. The annotation assignments are [here](https://andre-ye.github.io/muadocs/annot_assigns/med){:target="_blank"}. For instance, suppose that you are annotator ID #4. Your assigned image range for standard annotation is 335 - 374.
 
-![image](https://user-images.githubusercontent.com/73039742/196009859-5d9af61a-bbf1-477c-bb10-6192d1d8daf8.png)
+![image](https://user-images.githubusercontent.com/73039742/196007429-ce04a0e7-42b4-4581-9ce0-975684bf4956.png)
 
 ## [2] Preparing to Time Yourself
 
