@@ -12,6 +12,10 @@ In this session, you will be annotating clusters in synthetically generated imag
 In the first half of the session, you will annotate 40 images with the **standard** annotation protocol. 
 In the second half, you will annotate another 40 images with the **min-max** annotation protocol.
 
+## [0] Consent
+
+Please fill out this quick [demographics & consent form](https://docs.google.com/forms/d/e/1FAIpQLSdouuklSTXGVaAzpMe4nln5qMBb7KS7mbujNeKvhhIJgxv3Lw/viewform?usp=sf_link){:target="_blank"}.
+
 ## [1] The Task
 In this task, you will be presented with artificially synthesized images of 'blobs' or 'masses'. These blobs are meant to abstractly emulate the challenges of annotating medical images data.
 
