@@ -15,6 +15,10 @@ In the second half, you will annotate another 40 images with the **min-max** ann
 Please read this page carefully: it provides important contextual information on pulmonary lung nodes.
 After this page, you will begin annotating the first half of images.
 
+## [0] Consent
+
+Please fill out this quick [demographics & consent form](https://docs.google.com/forms/d/e/1FAIpQLSdouuklSTXGVaAzpMe4nln5qMBb7KS7mbujNeKvhhIJgxv3Lw/viewform?usp=sf_link){:target="_blank"}.
+
 ## [1] The Lung
 
 **The lung** is an important respiratory organ; inhaled air passes through the trachea and into the lungs through tabular branches (_bronchi_), which divide into successively more miniscule branchioles. The open space within the lung is the _cavity_, and the walls around it enclosing the lung are the _chest walls_.
