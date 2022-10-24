@@ -21,10 +21,10 @@ Please fill out this quick [demographics & consent form](https://docs.google.com
 
 ## [1] The Lung
 
-**The lung** is an important respiratory organ; inhaled air passes through the trachea and into the lungs through tabular branches (_bronchi_), which divide into successively more miniscule branchioles. The open space within the lung is the _cavity_, and the walls around it enclosing the lung are the _chest walls_.
+**The lung** is an important respiratory organ; inhaled air passes through the trachea and into the lungs through tubular branches (_bronchi_), which divide into successively more miniscule branchioles. The open space within the lung is the _cavity_, and the walls around it enclosing the lung are the _chest walls_.
  
 ![image](https://user-images.githubusercontent.com/73039742/196003077-2ffaa2b3-17f6-48ab-bec0-2fa48f644297.png)
-<small>Diagram of a lung. Image from <a href="https://newportcts.com/thoracic-surgery/lung-cancer-surgery/lung-cancer/" target="_blank">Newport Cardiac & Thoraric Surgery</small>.
+<small>Diagram of a lung. Image from <a href="https://newportcts.com/thoracic-surgery/lung-cancer-surgery/lung-cancer/" target="_blank">Newport Cardiac & Thoraric Surgery</a>.</small>
 
 ## [2] Pulmonary Nodes and Lung Cancer
  
