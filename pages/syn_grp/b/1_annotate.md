@@ -24,7 +24,7 @@ you can exclude it from the min region but include it in the max region.
 
 Please follow the following steps to prepare for annotation.
 
-1 ⇝ Open the [annotation interface](https://mua.cs.washington.edu/){:target="_blank"} (opens in new tab).
+1 ⇝ Open the [annotation interface](https://mua-test.cs.washington.edu/){:target="_blank"} (opens in new tab). (Make sure your browser says `mua-test.cs` and not `mua.cs`!)
 
 ![image](https://user-images.githubusercontent.com/73039742/196007328-88327886-fcf4-4824-933d-5dced02e3a84.png)
 
