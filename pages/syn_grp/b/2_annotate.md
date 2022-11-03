@@ -14,7 +14,7 @@ You will annotate 40 images using the **standard protocol**. In this method, sim
 a single boundary around the relevant node.
 
 ## [1] Setting up the Annotation Interface
-Please locate your assigned image range for **min/max** annotation. The annotation assignments are [here](https://andre-ye.github.io/muadocs/annot_assigns/syn){:target="_blank"}. For instance, suppose that you are annotator ID #4. Your assigned image range for standard annotation is 2866 - 2905.
+Please locate your assigned image range for **standard** annotation. The annotation assignments are [here](https://andre-ye.github.io/muadocs/annot_assigns/syn){:target="_blank"}. For instance, suppose that you are annotator ID #4. Your assigned image range for standard annotation is 2866 - 2905.
 
 ![image](https://user-images.githubusercontent.com/73039742/196323345-1b360537-1a30-4490-814e-7a856a7bd7d7.png)
 
