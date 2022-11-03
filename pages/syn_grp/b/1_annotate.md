@@ -36,7 +36,7 @@ Please follow the following steps to prepare for annotation.
 
 ![image](https://user-images.githubusercontent.com/73039742/196317354-8310fbcc-b8d5-46e8-a242-5b053a489c03.png)
 
-4 ⇝ Locate your assigned image range for **standard** annotation. Keep this tab open so you can refer back to it if needed. For instance, suppose that you are annotator ID #4. Your assigned image range for standard annotation is 2825 - 2864.
+4 ⇝ Locate your assigned image range for **minmax** annotation. Keep this tab open so you can refer back to it if needed. For instance, suppose that you are annotator ID #4. Your assigned image range for standard annotation is 2825 - 2864.
 
 ![image](https://user-images.githubusercontent.com/73039742/196317512-0ae069a1-4fc3-471b-a08f-865cb352b3f3.png)
 
